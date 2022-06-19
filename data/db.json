@@ -1,0 +1,70 @@
+{
+    "events" : [
+    {
+        "id":1,
+        "title" : "merhaba post 1",
+        "imageUrl" : [ "https://i.pinimg.com/originals/01/3b/ad/013bad0fd4243ea3f39722520ae4755c.jpg","https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":2,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":3,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":4,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":5,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":6,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":7,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":8,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    },
+    {
+        "id":9,
+        "title" : "merhaba post 1",
+        "imageUrl" : ["https://www.independentturkish.com/sites/default/files/styles/800x600/public/article/main_image/2022/03/21/893111-431734112.jpg?itok=ShBFYpZD","https://cdn1.ntv.com.tr/gorsel/LqnU_Wv4OUSJeknP9iGjug.jpg?width=674&height=1000&mode=crop&scale=both&v=20220612140312950"]
+
+    }
+    ],
+
+    "message" : [{
+        "id":1,
+        "title" : "merhaba post 1"
+
+    },
+    {
+        "id":2,
+        "title": "merhaba post 2"
+    }
+
+    ]
+}
